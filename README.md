@@ -1,1 +1,2 @@
-# RimworldModTemplate
+# Template
+Quick Rimworld Mod Template
